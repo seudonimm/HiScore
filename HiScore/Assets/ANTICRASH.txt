@@ -1,0 +1,1 @@
+{"function":"ANTI-SHUTDOWN FUNCTION\n","active":"OFF"}
